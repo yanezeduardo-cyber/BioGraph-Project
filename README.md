@@ -1,7 +1,7 @@
 # Proyecto 1 – Análisis de Redes de Interacción Proteica
 
 **Materia:** Estructura de Datos  
-**Grupo:** Sección 2526-2  
+**Grupo:** Sección 3  
 
 **Integrantes:**
 * **William Santaella**
